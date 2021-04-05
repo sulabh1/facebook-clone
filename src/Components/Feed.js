@@ -13,7 +13,7 @@ const Feed = () => {
         message="Yo this is the message"
         timestamp="time"
         imgName="imgName"
-        unsename="sulabh"
+        username="sulabh"
       />
       {/* {postsData.map((entry) => (
         <Post
